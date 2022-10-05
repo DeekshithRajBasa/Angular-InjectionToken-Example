@@ -1,0 +1,13 @@
+.parent {
+  border: 1px black solid;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 8px;
+}
+
+.child {
+  border: 1px burlywood solid;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 8px;
+}
